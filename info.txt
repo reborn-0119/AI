@@ -1,0 +1,30 @@
+1. Write a PROLOG program to implement the family tree and demonstrate the family
+relationship.
+2. Write a PROLOG program to implement conc(L1, L2, L3) where L2 is the list to be
+appended with L1 to get the resulted list L3.
+3. Write a PROLOG program to implement reverse(L, R) where List L is original and List
+R is reversed list.
+4. Write a PROLOG program to calculate the sum of two numbers.
+5. Write a PROLOG program to implement max(X, Y, M) so that M is the maximum of
+two numbers X and Y.
+6. Write a program in PROLOG to implement factorial (N, F) where F represents the
+factorial of a number N.
+7. Write a program in PROLOG to implement generate_fib(N,T) where T represents the
+Nth term of the Fibonacci series.
+8. Write a PROLOG program to implement power (Num, Pow, Ans) : where Num is
+raised to the power Pow to get Ans.
+9. PROLOG program to implement multi (N1, N2, R) : where N1 and N2 denotes the
+numbers to be multiplied and R represents the result.
+10. Write a PROLOG program to implement memb(X, L): to check whether X is a member
+of L or not.
+11. Write a PROLOG program to implement sumlist(L, S) so that S is the sum of a given
+list L.
+12. Write a PROLOG program to implement two predicates evenlength(List) and
+oddlength(List) so that they are true if their argument is a list of even or odd length
+respectively.
+13. Write a PROLOG program to implement maxlist(L, M) so that M is the maximum
+number in the list.
+14. Write a PROLOG program to implement insert(I, N, L, R) that inserts an item I into
+Nth position of list L to generate a list R.
+15. Write a PROLOG program to implement delete(N, L, R) that removes the element on
+Nth position from a list L to generate a list R.
